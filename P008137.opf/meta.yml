@@ -1,15 +1,16 @@
-id: opecha:P008137
+id: P008137
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W20106
   title: མཐིང་གླིང་གཡུལ་འགྱེད་དཔའ་བོ་རྩལ་འགྲན།
-  volume:
+  author: ''
+  volumes:
     e9867a4630c248089ce8faefd29bf063:
       image_group_id: I1KG18005
       title: Volume 1 of mthing gling g.yul 'gyed dpa' bo rtsal 'gran/
       volume_number: 1
       total_pages: 252
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: མཐིང་གླིང་གཡུལ་འགྱེད་དཔའ་བོ་རྩལ་འགྲན།
   author: ''
